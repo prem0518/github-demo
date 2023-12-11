@@ -3,4 +3,4 @@ Orange
 yellow
 green
 blue 
-purple
+indico
